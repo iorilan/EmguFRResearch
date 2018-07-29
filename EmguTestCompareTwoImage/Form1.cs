@@ -15,10 +15,10 @@ namespace EmguTestCompareTwoImage
 
         private static IList<string> arrICs = new List<string>()
         {
-            @"C:\Craft\EmguTest\EmguTestCompareTwoImage\bin\Debug\lanliang-ic.png",
-            @"C:\Craft\EmguTest\EmguTestCompareTwoImage\bin\Debug\budi.png",
-            @"C:\Craft\EmguTest\EmguTestCompareTwoImage\bin\Debug\budi_ic.png",
-            @"C:\Craft\EmguTest\EmguTestCompareTwoImage\bin\Debug\budi_crop.png",
+            @"C:\Craft\1.png",
+            @"C:\Craft\2.png",
+            @"C:\Craft\3.png",
+            @"C:\Craft\4.png",
         };
         public Form1()
         {
